@@ -58,6 +58,9 @@ Pour lancer ce projet en local :
 2. Installez les dépendances avec `npm install`.
 3. Exécutez `npm start` pour lancer l'application en mode développement.
 
+## Déploiement
+Cliquer sur le lien suivant : https://silver-alpaca-965184.hostingersite.com/
+
 ## Packages
 + [tailwind css](https://tailwindcss.com/docs/installation)
 + [vite js](https://vitejs.dev/guide/)
